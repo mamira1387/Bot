@@ -1,0 +1,3 @@
+pip install python-telegram-bot
+pip install python-dotenv # برای ذخیره امن توکن ربات
+pip install openai # برای قابلیت های هوش مصنوعی
